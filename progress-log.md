@@ -1,4 +1,4 @@
-# 🛠 Dev Progress Log – [Project Name - "simple-blog system"]
+# 🛠 Dev Progress Log – [Project Name - "todo-list-api"]
 
 _A day-by-day journal of what I did, what I struggled with, and what I learned._
 
@@ -10,6 +10,9 @@ _A day-by-day journal of what I did, what I struggled with, and what I learned._
 - Created basic file structure
 - created database named "todo-api" - I forgot the "_db"
 - I pasted code from chatgpt to my files
+
+## 📅 Day 2 – [June 19,2025 / Task ] [Time started: 3:00 pm]
+### ✅ What I Did
 - run the project using http://localhost/todo-api/create.php
 - it says "{"error":"Title is required"}"
 - oops..
@@ -41,10 +44,11 @@ _A day-by-day journal of what I did, what I struggled with, and what I learned._
 - it's all working pala. I'm putting a string when it's supposed to be an integer. hehe
 - hirap pag nangangapa pa. 
 - next, delete feature.
-- 
-- dfdf
-- 
-- 
+- it's working naman, but, I need to add some validation.
+- I listed it on future-todo.md file, you can check it there.
+- I'm now pushing this project to the repository.
+- time out muna. I'll be back to work on the enhancements.
+- time now is 4:41 pm.
 
 ### ❌ Struggles
 - [Describe the problem]
